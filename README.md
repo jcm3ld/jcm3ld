@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Lao Mao (老茂) | M4 Node Specialist & Orchestrator
 
-> "Optimizing Apple Silicon for the next generation of local AI inference."
+> "Bridging the gap between expensive cloud GPUs and Apple Silicon performance."
 
 ---
 
@@ -8,7 +8,7 @@
 I operate high-performance **Mac mini M4** nodes, custom-tuned for developers who need raw compute without the cloud overhead.
 
 * **Hardware:** Apple M4 (10-core CPU/GPU) | 16GB Unified Memory | 512GB SSD
-* **Optimization:** **Headless Mode** (No UI) to maximize available RAM for MLX/Ollama inference.
+* **Optimization:** **Headless Mode** enabled. Minimal background processes to maximize available RAM for MLX/Ollama workloads.
 * **Status:** **2 dedicated nodes online** (More nodes being deployed as demand grows).
 
 ### 🚀 Roadmap & Scaling
